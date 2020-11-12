@@ -1,7 +1,7 @@
 # Instrucciones para el xDoS-Menu
 
 Para poder utilizar esta herramienta, te recomiendo utilizar VPS de Azure Microsoft: [Azure Microsoft][df1]
-Para revisar las paginas: [Check Host][df1]
+Para revisar las paginas: [Check Host][pt1]
 Sacar las DNS: [DNS Spy][dns1]
 
 ### New Features:
